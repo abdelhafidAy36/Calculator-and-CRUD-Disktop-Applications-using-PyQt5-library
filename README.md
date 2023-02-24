@@ -13,7 +13,12 @@ For the CRUD application, navigate to the Applicaion1_Calculator folder and run 
 For the Calculator application, navigate to the Application2_CRUD folder and run the MainApp.py file.
 
 # Here are some images for the applications : 
-
+## APP1 : Calculator
+<center>
 <img src="https://github.com/JhingleDiff/Desktop-application-Calculator-and-CRUD-Applications-with-PyQt5-library/blob/main/App1.png" alt="Calculator">
+</center>
 
+## APP1 : CRUD
+<center>
 <img src="https://github.com/JhingleDiff/Desktop-application-Calculator-and-CRUD-Applications-with-PyQt5-library/blob/main/App2.png" alt="CRUD">
+</center>
