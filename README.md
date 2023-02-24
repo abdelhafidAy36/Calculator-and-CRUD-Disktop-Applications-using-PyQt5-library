@@ -1,16 +1,17 @@
 # Technologies Used
 The following technologies were used to build the applications:
 
-PyQt5 for both the CRUD application and the Calculator application
+ - PyQt5 for both the CRUD application and the Calculator application
+ - Oracle for the database used in the CRUD application
 
 # Installation and Usage
 To install and use the applications:
 
-Clone the repository to your local machine using git clone https://github.com/yourusername/repositoryname.git
-Open the project in your preferred IDE for Python (such as PyCharm or VS Code).
-Install PyQt5 library using pip install PyQt5
-For the CRUD application, navigate to the Applicaion1_Calculator folder and run the MainWindows.py file.
-For the Calculator application, navigate to the Application2_CRUD folder and run the MainApp.py file.
+ - Clone the repository to your local machine using git clone https://github.com/yourusername/repositoryname.git
+ - Open the project in your preferred IDE for Python (such as PyCharm or VS Code).
+ - Install PyQt5 library using pip install PyQt5
+ - For the CRUD application, navigate to the Applicaion1_Calculator folder and run the MainWindows.py file.
+ - For the Calculator application, navigate to the Application2_CRUD folder and run the MainApp.py file.
 
 # Here are some images for the applications : 
 ## APP1 : Calculator
