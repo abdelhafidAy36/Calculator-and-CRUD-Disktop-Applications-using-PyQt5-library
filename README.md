@@ -7,7 +7,7 @@ The following technologies were used to build the applications:
 # Installation and Usage
 To install and use the applications:
 
- - Clone the repository to your local machine using git clone [https://github.com/](https://github.com/abdelhafidAy36/Calculator-and-CRUD-Disktop-Applications-using-PyQt5-library)
+ - Clone the repository to your local machine using git clone : [Link](https://github.com/abdelhafidAy36/Calculator-and-CRUD-Disktop-Applications-using-PyQt5-library)
  - Open the project in your preferred IDE for Python (such as PyCharm or VS Code).
  - Install PyQt5 library using pip install PyQt5
  - For the CRUD application, navigate to the Applicaion1_Calculator folder and run the MainWindows.py file.
